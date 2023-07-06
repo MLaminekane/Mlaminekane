@@ -1,5 +1,5 @@
 # 💫 About Me:
-👯 I’m a junior dev<br>🔭 I’m currently working on my portofolio<br>🌱Currently learning php and C <br>💬 Ask me about<br>⚡ My hobbies : gaming, training, music and sleep
+👯 I’m a junior dev<br>🔭 I’m currently working on my portofolio<br>🌱Currently learning php and java <br>💬 Ask me about<br>⚡ My hobbies : gaming, training and music 
 
 
 ## 🌐 Socials:
