@@ -1,6 +1,6 @@
 # 💫 About Me:
-👯 I’m a junior software developer<br>🔭 
-currently working on my portofolio<br>🌱Java lover <br>💬 Ask me about<br>⚡ My hobbies : gaming, training, music and movies 
+👯 I’m a software engineer and java lover<br>🔭 
+💬 Ask me about<br>⚡ My hobbies : gaming, training, music and movies 
 
 
 ## 🌐 Socials:
