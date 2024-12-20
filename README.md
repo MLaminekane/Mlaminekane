@@ -1,5 +1,5 @@
 # 💫 About Me:
-👯 I’m a software engineer and java lover<br>🔭 
+👯 Problem solver and java lover<br>🔭 
 💬 Ask me about<br>⚡ My hobbies : gaming, training, music and movies 
 
 
