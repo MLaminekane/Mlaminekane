@@ -1,7 +1,11 @@
 <div align="center">
-  
+
+![Space GIF](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)
+
 # 👋 Coffee First!
 Passionate about tech, problem-solving, and clean code.
+
+
 
 ---
 
